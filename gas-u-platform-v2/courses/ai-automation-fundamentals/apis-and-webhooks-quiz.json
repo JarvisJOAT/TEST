@@ -1,0 +1,12 @@
+[
+  {"text": "What does API stand for?", "options": ["Application Process Integration", "Application Programming Interface", "Automated Process Interaction", "Automated Programming Interface"], "correctAnswer": 1},
+  {"text": "An API call is like...", "options": ["Receiving a text message", "Ordering from a menu", "Waiting for a scheduled event", "A random notification"], "correctAnswer": 1},
+  {"text": "When your workflow needs to get data from another service, it makes an...", "options": ["API Call", "Webhook", "Trigger", "Node"], "correctAnswer": 0},
+  {"text": "A Webhook is a way for an application to ___ data to your workflow.", "options": ["Pull", "Request", "Delete", "Push"], "correctAnswer": 3},
+  {"text": "What is the key difference between an API call and a Webhook?", "options": ["APIs are for data, Webhooks are for actions", "APIs pull data, Webhooks push data", "APIs are real-time, Webhooks are scheduled", "APIs are insecure, Webhooks are secure"], "correctAnswer": 1},
+  {"text": "If you want to be notified the instant a customer makes a purchase on your e-commerce site, you would use a...", "options": ["Scheduled Trigger", "API Call", "Webhook", "Manual Process"], "correctAnswer": 2},
+  {"text": "Your workflow needs to find the current weather. It should use an ___ to get the data from a weather service.", "options": ["API Call", "Webhook URL", "IF statement", "Cron Job"], "correctAnswer": 0},
+  {"text": "A Webhook URL is a unique address that your workflow provides to other applications.", "options": ["True", "False"], "correctAnswer": 0},
+  {"text": "Which technology is 'active' and initiates the request from your workflow's perspective?", "options": ["Webhook", "API Call", "Polling", "Push Notification"], "correctAnswer": 1},
+  {"text": "Webhooks are a common mechanism for creating what kind of triggers?", "options": ["Schedule-Based", "Polling", "Manual", "Event-Based"], "correctAnswer": 3}
+]

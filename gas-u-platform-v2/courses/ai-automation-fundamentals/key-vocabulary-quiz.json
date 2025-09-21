@@ -1,0 +1,12 @@
+[
+  {"text": "What term describes the component an agent uses to perceive its environment?", "options": ["Actuator", "Sensor", "Node", "API"], "correctAnswer": 1},
+  {"text": "A series of connected steps that accomplish a goal is called a...", "options": ["Trigger", "Workflow", "Node", "Webhook"], "correctAnswer": 1},
+  {"text": "What is the event or schedule that starts a workflow?", "options": ["API", "Node", "Trigger", "Actuator"], "correctAnswer": 2},
+  {"text": "The process of changing a date from 'MM/DD/YYYY' to 'YYYY-MM-DD' is an example of:", "options": ["Data Mapping", "Data Transformation", "Polling", "A Webhook"], "correctAnswer": 1},
+  {"text": "Which technology 'pushes' data to your workflow in real-time?", "options": ["API", "Polling", "Webhook", "Data Mapping"], "correctAnswer": 2},
+  {"text": "An autonomous entity that perceives, thinks, and acts is an...", "options": ["AI Agent", "API", "Workflow", "Node"], "correctAnswer": 0},
+  {"text": "What is the process of connecting a 'source' data field to a 'target' field called?", "options": ["Data Transformation", "Data Mapping", "A Trigger", "An Actuator"], "correctAnswer": 1},
+  {"text": "Checking for new data every 5 minutes is an example of:", "options": ["A Webhook", "An API Call", "Polling", "Data Transformation"], "correctAnswer": 2},
+  {"text": "A single action or step within a workflow is called a...", "options": ["Trigger", "Workflow", "Node", "Connection"], "correctAnswer": 2},
+  {"text": "Which technology allows your workflow to 'pull' data from another service?", "options": ["Webhook", "Polling", "API", "Node"], "correctAnswer": 2}
+]

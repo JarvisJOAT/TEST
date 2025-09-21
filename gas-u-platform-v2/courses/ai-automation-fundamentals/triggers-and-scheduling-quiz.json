@@ -1,0 +1,12 @@
+[
+  {"text": "What is the starting point of any automated workflow?", "options": ["Node", "Trigger", "Connection", "Data"], "correctAnswer": 1},
+  {"text": "A trigger that runs 'every hour' is an example of what?", "options": ["Event-Based", "Webhook", "Schedule-Based", "API Call"], "correctAnswer": 2},
+  {"text": "Which type of trigger is generally more efficient for real-time automation?", "options": ["Schedule-Based", "Event-Based", "Manual", "Cron Job"], "correctAnswer": 1},
+  {"text": "A webhook is a type of...", "options": ["Schedule-based trigger", "Data format", "Event-based trigger", "Node"], "correctAnswer": 2},
+  {"text": "What does 'polling' refer to in the context of triggers?", "options": ["Asking users for their opinion", "Checking an app for new data on a schedule", "A type of event", "Sending a webhook"], "correctAnswer": 1},
+  {"text": "A 'New Email in Gmail' trigger is an example of what?", "options": ["App-Specific Event", "Cron Job", "Polling", "Manual Start"], "correctAnswer": 0},
+  {"text": "When should you use a schedule-based trigger?", "options": ["Only for real-time events", "When an app doesn't support event-based triggers", "Never", "Only on weekends"], "correctAnswer": 1},
+  {"text": "What is a 'Cron Job'?", "options": ["A type of workflow node", "A highly specific scheduling method", "A way to handle errors", "A type of data"], "correctAnswer": 1},
+  {"text": "A workflow that automatically sends a welcome email to a new subscriber is likely initiated by what kind of trigger?", "options": ["A schedule", "An event (new subscription)", "A manual button press", "A cron job"], "correctAnswer": 1},
+  {"text": "What is the main disadvantage of schedule-based (polling) triggers compared to event-based ones?", "options": ["They are harder to set up", "They can have a delay in detecting new data", "They are a newer technology", "They don't work with most apps"], "correctAnswer": 1}
+]

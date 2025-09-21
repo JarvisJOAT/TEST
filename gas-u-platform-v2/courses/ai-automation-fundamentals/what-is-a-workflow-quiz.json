@@ -1,0 +1,32 @@
+[
+  {
+    "text": "What is the event that starts a workflow called?",
+    "options": [
+      "A Node",
+      "A Connection",
+      "A Trigger",
+      "An Action"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "text": "In a workflow, what are the individual actions or steps called?",
+    "options": [
+      "Triggers",
+      "Nodes",
+      "Data",
+      "Paths"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "text": "What flows between the nodes in a workflow?",
+    "options": [
+      "Electricity",
+      "Nothing",
+      "User commands",
+      "Data"
+    ],
+    "correctAnswer": 3
+  }
+]

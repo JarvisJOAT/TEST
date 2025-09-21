@@ -1,0 +1,12 @@
+[
+  {"text": "What is the primary purpose of a loop in a workflow?", "options": ["To stop the workflow", "To repeat actions for each item in a list", "To handle a single item", "To trigger the workflow"], "correctAnswer": 1},
+  {"text": "The process of running a loop for one specific item in a list is called an...", "options": ["Aggregation", "Iteration", "Condition", "Trigger"], "correctAnswer": 1},
+  {"text": "If you need to send an email to every person in a spreadsheet, you would use a...", "options": ["Trigger", "Loop", "Webhook", "Condition"], "correctAnswer": 1},
+  {"text": "What is the typical input for a loop?", "options": ["A single data item", "A true/false value", "A list (or array) of items", "A trigger event"], "correctAnswer": 2},
+  {"text": "What does 'aggregation' mean in the context of a loop?", "options": ["Stopping the loop on an error", "Running the loop faster", "Combining the results from all iterations", "Checking a condition"], "correctAnswer": 2},
+  {"text": "A 'Read Sheet' node that outputs 50 rows will cause the next part of the loop to run how many times?", "options": ["1", "0", "50", "It's impossible to know"], "correctAnswer": 2},
+  {"text": "Loops make your automations more...", "options": ["Complicated", "Scalable", "Linear", "Brittle"], "correctAnswer": 1},
+  {"text": "The phrase 'for each item in a list' is a strong indicator that you need a...", "options": ["Loop", "Trigger", "Webhook", "Conditional"], "correctAnswer": 0},
+  {"text": "In each iteration of a loop, you typically have access to...", "options": ["The data for the entire list", "The data for the current item only", "No data", "The trigger data"], "correctAnswer": 1},
+  {"text": "Which of the following is a good use case for a loop?", "options": ["Starting a workflow at 9 AM", "Checking if an order total is over $100", "Processing every file in a folder", "Sending a single notification"], "correctAnswer": 2}
+]

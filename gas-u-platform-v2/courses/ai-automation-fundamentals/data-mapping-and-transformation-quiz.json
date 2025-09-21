@@ -1,0 +1,12 @@
+[
+  {"text": "What is the process of connecting data fields from a source node to a target node?", "options": ["Data Transformation", "Data Mapping", "Data Triggering", "Data Scheduling"], "correctAnswer": 1},
+  {"text": "Combining a 'FirstName' and 'LastName' field into a 'FullName' field is an example of what?", "options": ["Data Mapping", "Data Transformation", "A Trigger", "A Sensor"], "correctAnswer": 1},
+  {"text": "Why is data transformation often necessary?", "options": ["To make the data bigger", "Because different systems have different data format requirements", "To slow down the workflow", "To delete data"], "correctAnswer": 1},
+  {"text": "Converting a date from 'MM/DD/YYYY' to 'YYYY-MM-DD' is an act of...", "options": ["Mapping", "Triggering", "Scheduling", "Transformation"], "correctAnswer": 3},
+  {"text": "If a workflow step fails because of a 'malformed date' error, what is the most likely problem?", "options": ["The trigger failed", "The data was not transformed correctly", "The node is broken", "The internet is down"], "correctAnswer": 1},
+  {"text": "What is the 'lifeblood' of any workflow, according to the lesson?", "options": ["The trigger", "The nodes", "The data", "The connections"], "correctAnswer": 2},
+  {"text": "Using an IF-ELSE statement to change an output value is a form of...", "options": ["Data Transformation", "Data Mapping", "Data Polling", "Data Deletion"], "correctAnswer": 0},
+  {"text": "You are connecting a form submission to a Google Sheet. The form has a field called 'email_address' and the sheet has a column called 'Email'. What do you need to do?", "options": ["Transform the data", "Map 'email_address' to 'Email'", "Create a new trigger", "Schedule the workflow"], "correctAnswer": 1},
+  {"text": "Calculating a subtotal based on 'price' and 'quantity' fields is an example of:", "options": ["Data Transformation", "Data Mapping", "A/B Testing", "Error Handling"], "correctAnswer": 0},
+  {"text": "The primary goal of data mapping and transformation is to ensure data is ___ for the next step in the workflow.", "options": ["deleted", "in the correct format", "always text", "encrypted"], "correctAnswer": 1}
+]

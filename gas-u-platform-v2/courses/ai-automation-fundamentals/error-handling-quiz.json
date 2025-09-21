@@ -1,0 +1,12 @@
+[
+  {"text": "What is the primary purpose of Error Handling?", "options": ["To make workflows run faster", "To manage unexpected failures gracefully", "To add more steps to a workflow", "To trigger workflows"], "correctAnswer": 1},
+  {"text": "Automatically trying an action again after it fails is called...", "options": ["Fallback", "Retry on Failure", "Conditional Logic", "Data Mapping"], "correctAnswer": 1},
+  {"text": "What is the most common fallback action when a workflow error occurs?", "options": ["Deleting the workflow", "Sending a notification to a human", "Trying again indefinitely", "Using default data"], "correctAnswer": 1},
+  {"text": "A 'Try/Catch' block is a form of...", "options": ["Trigger", "Data Transformation", "Conditional Logic for errors", "API Call"], "correctAnswer": 2},
+  {"text": "Without error handling, what happens when a workflow hits an error?", "options": ["It retries automatically", "It usually just stops", "It sends an email", "It fixes itself"], "correctAnswer": 1},
+  {"text": "Providing a default value when a data lookup fails is an example of what?", "options": ["A trigger", "A fallback action", "A retry policy", "A webhook"], "correctAnswer": 1},
+  {"text": "Why is error handling crucial for professional automations?", "options": ["It makes them reliable and trustworthy", "It's required by law", "It adds more nodes", "It makes them run on a schedule"], "correctAnswer": 0},
+  {"text": "If an API is temporarily down, what is the best first strategy to try?", "options": ["End the workflow", "Send an email immediately", "Retry the API call a few times", "Delete the node"], "correctAnswer": 2},
+  {"text": "The 'Catch' part of a 'Try/Catch' block executes when...", "options": ["The workflow starts", "The 'Try' action is successful", "The 'Try' action fails", "The workflow ends"], "correctAnswer": 2},
+  {"text": "Good error handling helps prevent...", "options": ["Triggers from firing", "Incomplete tasks and lost data", "Data transformation", "APIs from changing"], "correctAnswer": 1}
+]

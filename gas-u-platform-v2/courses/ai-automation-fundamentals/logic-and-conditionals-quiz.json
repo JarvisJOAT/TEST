@@ -1,0 +1,12 @@
+[
+  {"text": "What is the primary function of Conditional Logic in a workflow?", "options": ["To stop the workflow", "To make decisions and change paths", "To trigger the workflow", "To handle errors"], "correctAnswer": 1},
+  {"text": "A node that checks a condition and sends data down different paths is often called a...", "options": ["Trigger", "Webhook", "Router or Switch", "API Node"], "correctAnswer": 2},
+  {"text": "The statement 'Order_Amount is greater than 100' is an example of a...", "options": ["Trigger", "Condition", "Fallback", "Node"], "correctAnswer": 1},
+  {"text": "If you need two conditions to BOTH be true, you would use which operator?", "options": ["OR", "NOT", "AND", "THEN"], "correctAnswer": 2},
+  {"text": "IF/THEN/ELSE logic allows a workflow to be more...", "options": ["Linear", "Simple", "Dynamic", "Slow"], "correctAnswer": 2},
+  {"text": "A condition must always evaluate to either...", "options": ["A number or a string", "An input or an output", "True or False", "An error or a success"], "correctAnswer": 2},
+  {"text": "If you want a workflow to run if EITHER `Status` is 'Urgent' OR `Priority` is 'High', you would use...", "options": ["An AND operator", "A loop", "A trigger", "An OR operator"], "correctAnswer": 3},
+  {"text": "What is the 'ELSE' part of an IF/THEN/ELSE statement?", "options": ["The path taken if the condition is true", "The condition being checked", "The path taken if the condition is false", "The end of the workflow"], "correctAnswer": 2},
+  {"text": "Checking if an email subject 'contains' a specific word is a type of...", "options": ["Condition", "Trigger", "Action", "Error"], "correctAnswer": 0},
+  {"text": "Conditional logic gives your workflow the power of...", "options": ["Scheduling", "Decision-making", "Error handling", "Data transformation"], "correctAnswer": 1}
+]

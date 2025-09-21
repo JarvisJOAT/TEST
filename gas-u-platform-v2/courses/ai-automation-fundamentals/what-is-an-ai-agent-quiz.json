@@ -1,0 +1,202 @@
+[
+  {
+    "text": "What is the primary purpose of an AI agent?",
+    "options": [
+      "To browse the web",
+      "To achieve specific goals",
+      "To generate random data",
+      "To store information"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "text": "Which component allows an AI agent to perceive its environment?",
+    "options": [
+      "Actuators",
+      "Effectors",
+      "Sensors",
+      "Goals"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "text": "A spam filter is an example of an AI agent. What is its 'actuator'?",
+    "options": [
+      "Reading the email content",
+      "The decision-making logic",
+      "Moving an email to the spam folder",
+      "The user's inbox"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "text": "Which of the following is NOT a standard core component of an AI agent?",
+    "options": [
+      "Sensors",
+      "A specific programming language",
+      "Goals",
+      "Decision-Making Logic"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "text": "In the context of a self-driving car, what is an example of a 'goal'?",
+    "options": [
+      "The car's camera",
+      "The steering wheel",
+      "Reaching the destination safely",
+      "The current speed"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "text": "An AI agent's 'decision-making logic' is also known as its...",
+    "options": [
+      "Sensor",
+      "Actuator",
+      "Policy",
+      "Environment"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "text": "What type of agent acts based only on the current percept, ignoring the history?",
+    "options": [
+      "Model-based reflex agent",
+      "Simple reflex agent",
+      "Goal-based agent",
+      "Utility-based agent"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "text": "A thermostat that turns on the heat when the temperature drops below a set point is a simple example of what?",
+    "options": [
+      "A learning agent",
+      "A goal-based agent",
+      "A complex AI",
+      "An AI agent"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "text": "What does a 'learning agent' do that other agents might not?",
+    "options": [
+      "It follows a set of rules.",
+      "It has goals.",
+      "It improves its performance over time through experience.",
+      "It can sense its environment."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "text": "In workflow automation, what can an 'agent' be thought of as?",
+    "options": [
+      "The entire workflow itself",
+      "A single step or action in the workflow",
+      "The user who created the workflow",
+      "The data passing through the workflow"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "text": "A 'utility-based' agent chooses actions based on...",
+    "options": [
+      "The developer's preference",
+      "A random choice",
+      "Maximizing its own 'happiness' or 'utility'",
+      "What the user tells it to do"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "text": "Which of these is the best example of an AI agent's 'environment'?",
+    "options": [
+      "The agent's source code",
+      "The internet connection it uses",
+      "The data it can access and the system it can affect",
+      "The computer's operating system"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "text": "The Roomba vacuum cleaner is a well-known AI agent. What is its primary 'sensor'?",
+    "options": [
+      "Its wheels",
+      "Its suction motor",
+      "Its dirt detector and bump sensors",
+      "Its charging dock"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "text": "Why is 'autonomy' a key characteristic of an AI agent?",
+    "options": [
+      "It means the agent is physically a robot.",
+      "It means the agent can operate without direct human control.",
+      "It means the agent was built by a large company.",
+      "It means the agent is always correct."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "text": "A 'model-based' agent differs from a 'simple reflex' agent because it...",
+    "options": [
+      "has goals.",
+      "maintains an internal state or model of the world.",
+      "can move.",
+      "is faster."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "text": "When you play a game of chess against a computer, the computer opponent is acting as a...",
+    "options": [
+      "Simple reflex agent",
+      "Learning agent",
+      "Goal-based agent",
+      "Sensor"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "text": "What is the function of an 'actuator' for a software agent?",
+    "options": [
+      "To read data from a file",
+      "To modify the state of the digital environment (e.g., write to a file)",
+      "To store the agent's goals",
+      "To decide what to do next"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "text": "A key difference between a standard script and an AI agent is the agent's ability to...",
+    "options": [
+      "Run on a schedule",
+      "Be written in Python",
+      "React to changes in its environment",
+      "Execute a sequence of steps"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "text": "What does PEAS stand for in the context of AI agent design?",
+    "options": [
+      "Performance, Environment, Actuators, Sensors",
+      "Program, Execution, Action, State",
+      "Policy, Environment, Action, System",
+      "Performance, Execution, Actuators, State"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "text": "A smart assistant like Siri or Alexa can be described as what kind of agent?",
+    "options": [
+      "A simple reflex agent",
+      "A utility-based, learning agent",
+      "An agent with no goals",
+      "An agent with no sensors"
+    ],
+    "correctAnswer": 1
+  }
+]
